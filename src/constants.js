@@ -29,7 +29,11 @@ import sirtLogo from './assets/education_logo/SIRT LOGO.png'
 import theGYMLogo from './assets/work_logo/GYM.png'
 import theCAFELOGO from './assets/work_logo/Cafe_web.png'
 import theMEGABLOG from './assets/work_logo/MegaBlog.png'
+<<<<<<< HEAD
 import theSNAKEGAME from './assets/work_logo/Snake_Game.png'
+=======
+import theSNAKEGAME from './assets/work_logo/Snake_Game.png
+>>>>>>> 15e39c164bec6ad4af3eac0a899afb0ba22f48a2
 
 
 
@@ -129,7 +133,8 @@ export const projects = [
       title: "Snake Game",
       description:
       "This is a classic Snake game built with HTML, CSS, and JavaScript that runs directly in the web browser. The player controls the snake to eat food, grow longer, and avoid colliding with walls or itself to score high. It provides an interactive, fun, and nostalgic gaming experience inspired by the original arcade concept.",
-      image:theSNAKEGAME,
+      image: theSNAKEGAME,
+
       tags: ["HTML", "CSS", "JavaScript"],
       github: "https://github.com/Anurag7694/Snake-Game-Project",
       webapp: "https://anurag7694.github.io/Snake-Game-Project/",
