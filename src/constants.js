@@ -29,11 +29,9 @@ import sirtLogo from './assets/education_logo/SIRT LOGO.png'
 import theGYMLogo from './assets/work_logo/GYM.png'
 import theCAFELOGO from './assets/work_logo/Cafe_web.png'
 import theMEGABLOG from './assets/work_logo/MegaBlog.png'
-<<<<<<< HEAD
 import theSNAKEGAME from './assets/work_logo/Snake_Game.png'
-=======
-import theSNAKEGAME from './assets/work_logo/Snake_Game.png
->>>>>>> 15e39c164bec6ad4af3eac0a899afb0ba22f48a2
+
+
 
 
 
