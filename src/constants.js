@@ -128,7 +128,7 @@ export const projects = [
       id: 3,
       title: "Snake Game",
       description:
-      "Developed a full-stack blogging platform offering users a personalized experience to create, edit, and manage their content. The application leverages Appwrite for secure authentication and efficient data handling, including robust database and storage services. The frontend is built with React.js and styled using Tailwind CSS, ensuring a modern, intuitive, and responsive design across all devices.",
+      "This is a classic Snake game built with HTML, CSS, and JavaScript that runs directly in the web browser. The player controls the snake to eat food, grow longer, and avoid colliding with walls or itself to score high. It provides an interactive, fun, and nostalgic gaming experience inspired by the original arcade concept.",
       image:theSNAKEGAME,
       tags: ["HTML", "CSS", "JavaScript"],
       github: "https://github.com/Anurag7694/Snake-Game-Project",
