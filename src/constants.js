@@ -6,7 +6,7 @@ import reactjsLogo from './assets/tech_logo/reactjs.png';
 import reduxLogo from './assets/tech_logo/redux.png';
 import tailwindcssLogo from './assets/tech_logo/tailwindcss.png';
 import mysqlLogo from './assets/tech_logo/mysql.png';
-import postgreLogo from './assets/tech_logo/Postgre.png'
+import postgreLogo from './assets/tech_logo/postgre.png'
 import javaLogo from './assets/tech_logo/java.png'
 import pythonLogo from './assets/tech_logo/python.png'
 import cLogo from './assets/tech_logo/c.png';
