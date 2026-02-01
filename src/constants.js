@@ -28,6 +28,8 @@ import sirtLogo from './assets/education_logo/SIRT LOGO.png'
 // Project Section Logo's
 import theGYMLogo from './assets/work_logo/GYM.png'
 import theCAFELOGO from './assets/work_logo/Cafe_web.png'
+import theMEGABLOG from './assets/work_logo/MegaBlog.png'
+import theSNAKEGAME from './assets/work_logo/Snake_Game.png
 
 
 
@@ -111,6 +113,26 @@ export const projects = [
       tags: ["HTML", "CSS", "JavaScript"],
       github: "https://github.com/Anurag7694/Cafe_Website",
       webapp: "https://anurag7694.github.io/Cafe_Website/",
+    },
+    {
+      id: 2,
+      title: " The MegaBlog  🚀",
+      description:
+      "Developed a full-stack blogging platform offering users a personalized experience to create, edit, and manage their content. The application leverages Appwrite for secure authentication and efficient data handling, including robust database and storage services. The frontend is built with React.js and styled using Tailwind CSS, ensuring a modern, intuitive, and responsive design across all devices.",
+      image: theMEGABLOG,
+      tags: ["React JS", "Appwrite", "Tailwind CSS", "Auth","Redux"],
+      github: "https://github.com/Anurag7694/MegaBlog_project",
+      webapp: "https://mega-blog-project-one.vercel.app/",
+    },
+    {
+      id: 3,
+      title: "Snake Game",
+      description:
+      "Developed a full-stack blogging platform offering users a personalized experience to create, edit, and manage their content. The application leverages Appwrite for secure authentication and efficient data handling, including robust database and storage services. The frontend is built with React.js and styled using Tailwind CSS, ensuring a modern, intuitive, and responsive design across all devices.",
+      image:theSNAKEGAME,
+      tags: ["HTML", "CSS", "JavaScript"],
+      github: "https://github.com/Anurag7694/Snake-Game-Project",
+      webapp: "https://anurag7694.github.io/Snake-Game-Project/",
     },
     
     
