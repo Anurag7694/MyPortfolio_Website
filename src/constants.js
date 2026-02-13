@@ -30,6 +30,7 @@ import theGYMLogo from './assets/work_logo/GYM.png'
 import theCAFELOGO from './assets/work_logo/Cafe_web.png'
 import theMEGABLOG from './assets/work_logo/MegaBlog.png'
 import theSNAKEGAME from './assets/work_logo/Snake_Game.png'
+import theImageEditor from './assets/work_logo/Image_editor.png'
 
 
 
@@ -139,26 +140,17 @@ export const projects = [
     },
     
     
-    // {
-    //   id: 5,
-    //   title: "Webverse Digital",
-    //   description:
-    //     "The official website for Webverse Digital, a creative digital marketing agency. Built using HTML, CSS, and JavaScript, it features visually appealing animations and a clean design to showcase the agency's services.",
-    //   image: webverLogo,
-    //   tags: ["HTML", "CSS", "JavaScript", "Framer Motion"],
-    //   github: "https://github.com/codingmastr/Webverse-Digital",
-    //   webapp: "https://webversedigital.com/",
-    // },
-    // {
-    //   id: 6,
-    //   title: "Coding Master",
-    //   description:
-    //     "An ed-tech platform where users can access tech and coding-related blogs, notes, interview questions, e-books, and premium content with payment integration. Built with full-stack technologies for a seamless learning experience.",
-    //   image: cmLogo,
-    //   tags: ["React JS", "Node.js", "MongoDB", "Express", "Payment Integration"],
-    //   github: "https://codingmasterweb.in/",
-    //   webapp: "https://codingmasterweb.in/",
-    // },
+     {
+    id: 4,
+    title: "Image Editor",
+    description:
+      "A responsive web-based Image Editor that allows users to upload images and apply real-time filters and adjustments.It is built using HTML, CSS, and JavaScript with a clean and user-friendly interface.The project focuses on DOM manipulation, interactive UI controls, and smooth editing experience.It showcases my front-end development skills and ability to build practical, responsive web applications.",
+    image: theImageEditor,
+    tags: ["HTML", "CSS", "JavaScript"],
+    github: "https://github.com/Anurag7694/Image_Editor",
+    webapp: "https://anurag7694.github.io/Image_Editor/",
+  },
+    
 ];  
 export const education = [
     {
